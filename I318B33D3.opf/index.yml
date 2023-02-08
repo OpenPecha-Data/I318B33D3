@@ -1,0 +1,35 @@
+id: 0575a45cbd7e461287959c4d85ffd0c5
+annotation_type: index
+revision: '00001'
+annotations:
+  dec5fb269eb94d4ab9617d3303b81f52:
+    base: 5E0F.txt
+    Chapters:
+    - title: nidāna
+      span:
+        start: 0
+        end: 142
+    - title: §1-20
+      span:
+        start: 143
+        end: 725
+    - title: §21-40
+      span:
+        start: 726
+        end: 1427
+    - title: §41-60
+      span:
+        start: 1428
+        end: 2071
+    - title: §61-80
+      span:
+        start: 2072
+        end: 2685
+    - title: §81-100
+      span:
+        start: 2686
+        end: 3247
+    - title: colophon
+      span:
+        start: 3248
+        end: 3384
